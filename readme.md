@@ -1,0 +1,1 @@
+## Example NDK Android project.
